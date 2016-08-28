@@ -14,6 +14,7 @@ class HolaMundo extends CI_Controller {
         //$this->load->helper("url");
         //$this->load->helper("form");
         $this->load->library("form_validation");
+        //$this->load->helper("url");
     }
 
     public function index()
