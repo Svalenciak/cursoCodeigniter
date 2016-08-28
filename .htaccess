@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteCond $1 !^(index\.php|images|assets|robots\.txt)
-RewriteRule ^(.*)$ /CodeIgniter-3.1.0/index.php/$1 [L]
+RewriteRule ^(.*)$ /cursoCodeigniter/index.php/$1 [L]
 
