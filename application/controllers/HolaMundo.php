@@ -23,6 +23,7 @@ class HolaMundo extends CI_Controller {
     public function index()
     {
         echo "Hola, esto es CodeIgniter";
+        echo "Hola, esto es CodeIgniter";
     }
     
     
